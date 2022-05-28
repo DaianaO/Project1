@@ -1,0 +1,139 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(fonts/Roboto-Black.ttf) format('truetype');
+}
+
+#first {
+    background-color: #1F2937;
+    padding:0 50px 0 50px;
+    margin: 0 50px 0 50px;
+}
+
+.fave{
+    font-size: 24px;
+    color:#F9FAF8;
+    display: inline;
+    margin-right: 700px;
+    position:relative; top:40px; 
+}
+
+.head{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+#closer{
+    position:relative; bottom:30px; 
+}
+
+#second {
+    font-size:18px;
+    color:#E5E7EB;
+    display: inline;
+}
+
+#content {
+    font-size:18px;
+    color:#E5E7EB;
+    margin-top: -50px;
+}
+
+.first-button{
+    background-color: #3882f6;
+    padding-bottom: 300;
+    position:relative; bottom:300px; 
+    color: #E5E7EB;
+    border: 0px;
+    border-radius: 10%;
+}
+
+.child-div{
+    display: inline;
+    margin-right: 600px;
+    position: relative; top: 100px;
+}
+
+.mountain{
+    position:relative; bottom:100px; 
+}
+
+.more-wallpapers{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+}
+
+.flex-container {
+    margin: 40px auto 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .box img{
+    margin: 20px;
+    border-radius: 20%;
+  }
+  
+  .text{
+    text-align:center;
+    font-size: 18px;
+    margin-top: -30px;
+  }
+
+ .quote {
+     background-color: #E5E7EB;
+     margin-top: -50px;
+ }
+
+ .qtext {
+     font-size: 36px;
+     font-style: italic;
+     font-weight: 100;
+     color: #1F2937;
+     margin: 100px;
+     padding:100px 0 100px 0;
+ }
+
+ .qname{
+     position: relative; 
+     margin-top: -150px; 
+     margin-left: 700px;
+     font-weight: bolder;
+ }
+
+ .last{
+    background-color: #3882f6;
+    color:#F9FAF8;
+ }
+
+ .last-heading{
+     margin-bottom: -10px;
+     margin-right: 300px;
+ }
+
+ .last-text{
+    font-size:18px;
+    display: inline;
+ }
+
+ .ldiv{
+     display: inline;
+     margin-right: 250px;
+ }
+
+ .last-button{
+    background-color: #3882f6;
+    position:relative; bottom:20px; 
+    color: #E5E7EB;
+    border: 5px, white;
+    border-radius: 10%;
+ }
+
+ .footer-text{
+    color:#F9FAF8;
+    font-size:18px;
+    font-family: "Roboto";
+ }
